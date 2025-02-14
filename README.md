@@ -4,5 +4,6 @@ Repositório com todos os trabalhos semanais da UC de Processamento de Linguagen
 
 ### Nome: Tomás Joaquim Sousa Leite da Silva
 ### Número: a104362
-### Foto: ![Photo](./Photo.png)
+### Foto:
+![Photo](./Photo.png)
 

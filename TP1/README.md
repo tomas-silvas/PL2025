@@ -2,7 +2,8 @@
 
 ### Data 14/02/2024
 ### Autor: Tomás Silva A104362
-### Foto: ![Photo](../Photo.png)
+### Foto:
+![Photo](../Photo.png)
 
 ---
 
