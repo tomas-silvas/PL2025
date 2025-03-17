@@ -24,12 +24,15 @@ Este programa simula uma máquina de vendas automática. Ele permite listar os p
 ---
 
 ### Exemplo de Entrada
+```
 >> LISTAR
 >> MOEDA 1e, 20c, 5c, 5c .
 >> SELECIONAR A23
 >> SAIR
+```
 
 ### Exemplo de Saída
+```
 maq: 14/03/2024, Stock carregado, Estado atualizado.
 maq: Bom dia. Estou disponível para atender o seu pedido.
 >> LISTAR
@@ -56,3 +59,4 @@ maq: Saldo = 60c
 >> SAIR
 maq: Pode retirar o troco: 50c, 10c.
 maq: Até à próxima
+```
